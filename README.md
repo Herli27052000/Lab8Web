@@ -417,7 +417,7 @@ Buat file baru dengan nama **hapus.php**
 
 **PENJELASAN**
 
-Jika ingin menghapus atau **delete** klik saja **hapus** maka akan terhapus secara otomatis oleh program,dan jika ingin kembali menambahkan klik **Tambang Barang** kemudian masukan inputan nya.
+Jika ingin menghapus atau **delete** klik saja **hapus** maka akan terhapus secara otomatis oleh program,dan jika ingin kembali menambahkan klik **Tambah Barang** kemudian masukan inputan nya.
 
 **code php**
 ```php
